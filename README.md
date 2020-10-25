@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Anastasia 👋
+[![Linkedin: an-perevalova](https://img.shields.io/badge/-an--perevalova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/an-perevalova/)](https://www.linkedin.com/in/an-perevalova/)
+[![GitHub perevalova](https://img.shields.io/github/followers/perevalova?label=follow&style=social)](https://github.com/perevalova)
+[![Codewars: rowena](https://www.codewars.com/users/rowena/badges/micro)](https://www.codewars.com/users/rowena)
 
-<!--
-**perevalova/perevalova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Python developer. Currently woking as Full Stack Developer.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![Anastasia Perevalova's GitHub stats](https://github-readme-stats.vercel.app/api?username=perevalova&show_icons=&private_count=true&hide=stars,issues,contribs&theme=algolia)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perevalova&layout=compact)]()
+
