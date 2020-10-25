@@ -3,7 +3,7 @@
 [![GitHub perevalova](https://img.shields.io/github/followers/perevalova?label=follow&style=social)](https://github.com/perevalova)
 [![Codewars: rowena](https://www.codewars.com/users/rowena/badges/micro)](https://www.codewars.com/users/rowena)
 
-I'm Python developer. Currently woking as Full Stack Developer.
+I'm a Python developer. Currently working as Full Stack Developer.
 
 <hr>
 
